@@ -20,7 +20,7 @@ Plant Manager é uma aplicação para ajudar no gerenciamento de alertas para mo
 
 # Como executar o projeto
 
-Pré-requisitos: npm / yarn
+Pré-requisitos: yarn / React
 
 ```bash
 # clonar repositório
