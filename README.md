@@ -4,9 +4,11 @@
 
 # Sobre o projeto
 
-Plant Manager é uma aplicação para ajudar no gerenciamento de suas plantas.
+Plant Manager é uma aplicação para ajudar no gerenciamento de alertas para molhar suas plantas.
 
 ## Layout mobile
+![WhatsApp Image 2021-12-02 at 13 49 19 (2)](https://user-images.githubusercontent.com/47953113/144467208-eecab7cc-7c6f-4b96-82ba-13457d03b788.jpeg)
+![WhatsApp Image 2021-12-02 at 13 49 19 (1) (1)](https://user-images.githubusercontent.com/47953113/144466924-56276884-bc85-4ec0-a231-6fe066cb8b08.jpeg) 
 
 
 # Tecnologias utilizadas
@@ -32,11 +34,10 @@ yarn install
 
 # executar o projeto
 yarn start
-```
-# Ler QrCode com o App Expo
-disponível nas plataformas de aplicativos
-![image](https://user-images.githubusercontent.com/47953113/144465478-f583ca90-035a-4462-bf8b-3fb8c614e5e6.png)
 
+# leia o Qrcode com aplicativo EXPO (disponivel nas lojas de aplicativos)
+
+```
 # Autor
 
 Israel Santos 
