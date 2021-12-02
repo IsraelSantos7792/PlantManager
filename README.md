@@ -18,18 +18,6 @@ Plant Manager é uma aplicação para ajudar no gerenciamento de suas plantas.
 
 # Como executar o projeto
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
