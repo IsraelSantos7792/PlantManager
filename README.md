@@ -33,8 +33,9 @@ yarn install
 # executar o projeto
 yarn start
 ```
-# Ler QrCode com o Expo
+# Ler QrCode com o App Expo
 disponível nas plataformas de aplicativos
+![image](https://user-images.githubusercontent.com/47953113/144465478-f583ca90-035a-4462-bf8b-3fb8c614e5e6.png)
 
 # Autor
 
