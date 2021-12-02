@@ -22,7 +22,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/IsraelSantos7792/PlantManager-React-and-expo
+git clone git@github.com:IsraelSantos7792/PlantManager.git
 
 # entrar na pasta do projeto front end web
 cd PlantManager
